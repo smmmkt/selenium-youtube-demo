@@ -5,7 +5,9 @@ The program opens youtube index and fetch the first entry of the results by give
 
 requirements:
 > chrome browser binary
+> 
 > chromedriver binary (env:path should be set properly)
+> 
 > selenium library
 
 
